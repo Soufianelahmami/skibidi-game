@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In recent years, interactive video games have taken the world by storm, providing immersive experiences that entertain and engage players across various platforms. ","photo2":"https://iili.io/HUrkvR4.jpg"},
+  {"desc3":" One such game that has gained significant popularity is Skibidi, a unique dance battle game that combines energetic choreography with captivating gameplay mechanics. ","photo3":"https://iili.io/HUrk8Ol.jpg"},
+  {"desc4":"Skibidi offers players a chance to showcase their dancing skills, compete with friends, and experience the joy of movement through a virtual dance floor.","photo4":"https://iili.io/HUrkSb2.jpg"},
+  {"desc5":" In this article, we will explore the fascinating world of Skibidi, its gameplay features, the impact it has had on the gaming community, and its future prospects.","photo5":"https://iili.io/HUrkgxS.jpg"},
+  {"descd":"Skibidi is a game that draws inspiration from a popular dance and song of the same name by the Russian group Little Big.","photod":"https://iili.io/HUrkgxS.jpg"}
    ]
  
 }
